@@ -1,6 +1,6 @@
 # guanwang
 
-> A Vue.js project
+> vue-cli + swiper pc官网小demo
 
 ## Build Setup
 

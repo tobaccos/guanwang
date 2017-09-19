@@ -19,13 +19,19 @@
       <div class="swiper-wrapper">
 
         <div class="swiper-slide">
-          <img class="imgload" src="http://mooc.inxedu.com/images/upload/image/20151026/1446026886181.jpg" alt="首页banner图片01">
+          <img class="imgload" src="./assets/001.jpg" alt="首页banner图片01">
         </div>
         <div class="swiper-slide">
-          <img class="imgload" src="http://mooc.inxedu.com/images/upload/image/20151026/1446026905031.jpg" alt="首页banner图片02">
+          <img class="imgload" src="./assets/002.jpeg" alt="首页banner图片01">
         </div>
-        <div class="swiper-slide">Slide 3</div>
-        <div class="swiper-slide">Slide 4</div>
+        <div class="swiper-slide">
+          <img class="imgload" src="./assets/003.jpg" alt="首页banner图片01">
+        </div>
+        <div class="swiper-slide">
+          <img class="imgload" src="./assets/004.jpeg" alt="首页banner图片01">
+        </div>
+  
+      
       </div>
       <!-- 如果需要分页器 -->
       <div class="swiper-pagination"></div>
